@@ -1,0 +1,4 @@
+name: plankcycle
+main: us.greenzack.PlankCycle.PlankCycle
+version: "0.3"
+commands:
